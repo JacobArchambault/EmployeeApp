@@ -53,8 +53,8 @@ namespace EmployeeApp
 
         public int Age
         {
-            get { return empAge; }
-            set { empAge = value; }
+            get => empAge;
+            set => empAge = value;
         }
 
 
